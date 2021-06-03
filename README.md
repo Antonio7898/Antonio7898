@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Antonio7898
-- 👀 I’m interested in AI/Machine Learning
+- 👋 Hi, I’m GIRISH PANDEY
+- 👀 I’m interested in Data Science/Machine Learning
 - 🌱 I’m currently BTECH 3rd Year Student
 
 <!---
