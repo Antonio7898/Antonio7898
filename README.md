@@ -13,5 +13,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonio7898&show_icons=true&locale=en&layout=compact" alt="antonio7898" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antonio7898&" alt="antonio7898" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=antonio7898&" alt="antonio7898" /></p>
 
