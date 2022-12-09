@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Girish Pandey</h1>
-<h3 align="center">Final Year B.TECH Student from India . I am fascinated about AI / ML and enjoy learning it.</h3>
+<h3 align="center">1st Year M.TECH Student from India . I am fascinated about AI / ML and enjoy learning it.</h3>
 
 - 📫 How to reach me **girishpandeyindore@gmail.com**
 
